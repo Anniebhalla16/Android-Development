@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Monday"
+        android:id="@+id/mon"/>
+
+    <item android:title="Tueday"
+        android:id="@+id/tue"/>
+
+    <item android:title="Wedday"
+        android:id="@+id/wed"/>
+    <item android:title="Thursday"
+        android:id="@+id/thu"/>
+
+    <item android:title="Friday"
+        android:id="@+id/fri"/>
+</menu>
