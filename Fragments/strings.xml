@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Question9</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+   <string-array name="Color">
+       <item>Teal</item>
+       <item>Rose Bud</item>
+       <item>Green</item>
+       <item>Celurean</item>
+
+   </string-array>
+</resources>
