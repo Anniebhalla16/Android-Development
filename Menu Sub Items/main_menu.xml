@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Class 9"
+        android:id="@+id/nine">
+        <menu>
+            <item android:title="Maths"
+                android:id="@+id/math9"/>
+            <item android:title="Science"
+                android:id="@+id/sc9"/>
+        </menu>
+    </item>
+
+    <item android:title="Class 10"
+        android:id="@+id/ten">
+        <menu>
+            <item android:title="Computer Science"
+                android:id="@+id/cs10"/>
+        </menu>
+    </item>
+
+    <item android:title="Class 12"
+        android:id="@+id/twel">
+        <menu>
+            <item android:title="PCM"
+                android:id="@+id/nonmed"/>
+            <item android:title="Medical"
+                android:id="@+id/med"/>
+            <item android:title="Commerce"
+                android:id="@+id/com"/>
+            <item android:title="Humanities"
+                android:id="@+id/human"/>
+        </menu>
+    </item>
+</menu>
