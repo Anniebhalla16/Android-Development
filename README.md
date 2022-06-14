@@ -1,2 +1,3 @@
 # Android-Development
-Semester 4 Du
+Created some of applications in Android Studio using Java
+It incudes basic applications
